@@ -1,0 +1,7 @@
+/Library
+/Logs
+/obj
+/Temp
+/*.csproj
+/*.sln
+/.vs/DOTSChunkDefragmentationSample/v16/.suo
